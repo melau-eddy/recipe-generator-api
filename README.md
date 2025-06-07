@@ -36,5 +36,5 @@ The main goal of this project was to **train myself in API integration**, JSON p
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/mealdb-api-training.git
+   git clone https://github.com/melau-eddy/recipe-generator-api
    cd mealdb-api-training
